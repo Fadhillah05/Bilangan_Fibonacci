@@ -1,0 +1,13 @@
+html, body {
+	background-color: #efefef;
+	margin: 100;
+	padding: 100;
+}
+
+header {
+	font-family: fontBebasNeue;
+	text-align: center;
+	padding: 1px;
+	background-color: #4183D7;
+	color: white;
+}
